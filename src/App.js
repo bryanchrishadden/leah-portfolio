@@ -36,7 +36,7 @@ class App extends Component {
             <div></div>
           </div>
           <div className="intro" id="intro">
-            <h1>Hello! I'm a desinger, wordpress developer & react developer.<br />
+            <h1>Hello! I'm a designer, wordpress developer & react developer.<br />
               I can solve <span>all some one of your</span> problems, ok?
             </h1>
             <h2>
