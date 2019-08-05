@@ -3,8 +3,11 @@ import React, { Component } from 'react';
 // import EntryPro from '../assets/videos/entry-prototype.mp4'
 import '../App.css';
 
-const IMG1 = 'https://photos.google.com/share/AF1QipM6UYTy7qRqMLS9PppTY6mEBv5qbR6Hym4BQxwaCZzmXkCEk24uLpJde_udqIn6tw/photo/AF1QipOP4ZpvvYrXg1cFWsLPLN2tT5OtzuHLiyjJO7-y?key=ZGxKRG45eG9Xa2wySnJtaEdmSmpUanFRaUxmUWdB'
-const IMG2 = 'https://photos.google.com/share/AF1QipP4csz6JN6poRGhG363YSom20mmYmF8-Ek_kmimnvO-RIZGjNrMWDAsLshgbx6MGQ/photo/AF1QipMFrWnKq2EmGeKhOmYB0daSUsKGBGq6Spme5a1c?key=VmZ1em1aWmhrOTh4VERiYXFiX244c0dKSWFtNktB'
+import IMG1 from '../assets/bg1.png'
+import IMG2 from '../assets/bg2.png'
+
+// const IMG1 = 'https://photos.google.com/share/AF1QipM6UYTy7qRqMLS9PppTY6mEBv5qbR6Hym4BQxwaCZzmXkCEk24uLpJde_udqIn6tw/photo/AF1QipOP4ZpvvYrXg1cFWsLPLN2tT5OtzuHLiyjJO7-y?key=ZGxKRG45eG9Xa2wySnJtaEdmSmpUanFRaUxmUWdB'
+// const IMG2 = 'https://photos.google.com/share/AF1QipP4csz6JN6poRGhG363YSom20mmYmF8-Ek_kmimnvO-RIZGjNrMWDAsLshgbx6MGQ/photo/AF1QipMFrWnKq2EmGeKhOmYB0daSUsKGBGq6Spme5a1c?key=VmZ1em1aWmhrOTh4VERiYXFiX244c0dKSWFtNktB'
 
 var IMGStyle1 = {
     backgroundRepeat: "no-repeat",
